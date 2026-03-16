@@ -1,0 +1,15 @@
+saldo = 500
+saldo += 1000
+print(saldo)  # 1500
+saldo -= 200
+print(saldo)  # 1300
+saldo *= 2
+print(saldo)  # 2600
+saldo /= 4
+print(saldo)  # 650.0
+saldo //= 3
+print(saldo)  # 216.0
+saldo **= 2
+print(saldo)  # 46656.0
+saldo %= 1000
+print(saldo)  # 656.0
